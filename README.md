@@ -1,5 +1,5 @@
 # IntroDeepLearning
-Labs from MIT Intro to Deep Learning, 6.S191
+Labs from MIT Intro to Deep Learning, 6.S191. All code originally from https://github.com/aamini/introtodeeplearning
 
 Lab 1
 
@@ -10,5 +10,6 @@ Lab 1
 Lab 2
 
 - `Part1_MNIST.ipynb`: MNIST database image classification with Convolutional Neural Networks
+- `Part2_Debiasing.ipynb`: Using Variational Autoencoders to generate fairer training sets for image classification
 
 
