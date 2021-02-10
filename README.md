@@ -15,4 +15,5 @@ Lab 2
 Lab 3
 
 - `RL.ipynb`: Reinforcement learning, training agents to learn which actions to take in CartPole and Pong environments
+  - [trained agent (in green on the right) playing Pong against a computer (on the left)](https://drive.google.com/file/d/1S97NeKU4EOirTUlPVvmel_gepJLlKpcM/view?usp=sharing)
 
