@@ -12,4 +12,7 @@ Lab 2
 - `Part1_MNIST.ipynb`: MNIST database image classification with Convolutional Neural Networks
 - `Part2_Debiasing.ipynb`: Using Variational Autoencoders to generate fairer training sets for image classification
 
+Lab 3
+
+- `RL.ipynb`: Reinforcement learning, training agents to learn which actions to take in CartPole and Pong environments
 
